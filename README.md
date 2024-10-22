@@ -19,7 +19,6 @@ I'm currently working on Game Development.<br>Not opting much of a collab.<br>Lo
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=loke2006&limit=5&theme=dark&combine_all_yearly_contributions=true)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=loke2006&show_icons=true&locale=en" alt="loke2006" /></p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=loke2006&icon=0&color=0)](https://visitcount.itsvg.in)
