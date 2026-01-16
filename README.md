@@ -1,7 +1,7 @@
 <h1 align="centre"># 💫 About Me:</h1>
 <h2 align="center">Hi 👋, I'm Lokesh Nalla</h2>
 <h3 align="center">A passionate frontend and Game developer from India</h3>
-I'm currently working on Game Development.<br>Not opting much of a collab.<br>Looking for help with 3D Game Development #unity<br>currently learning C#<br>Ask me about CS future needs in Web, App, Game Developments.<br>Fun Fact: Trying every domain helps you find your interests..
+I'm currently working on Game Development.<br>Free to collab.<br>Looking for help with 3D Game Development #unity<br>currently learning C#<br>Ask me about CS future needs in Web, App, Game Developments.<br>Fun Fact: Trying every domain helps you find your interests..
 
 
 ## 🌐 Socials:
